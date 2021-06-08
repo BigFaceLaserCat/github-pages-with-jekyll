@@ -1,6 +1,6 @@
 ---
-title: "Welcome"
+title: "Welcome, traveler"
 ---
 
-This is a test page.
+You seem to have come to the end of the universe.
 
